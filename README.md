@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Currently &mdash; since 2020 &mdash; I'm working on design systems with Typescript, React, CSS-in-JS and Nextjs at [Os Equi](https://github.com/osequi). 
+Currently &mdash; since 2020 &mdash; I'm running a software research and development studio specialized in likely correct software, rapid iterations and design systems for user interfaces. [Osequi](https://github.com/osequi). 
